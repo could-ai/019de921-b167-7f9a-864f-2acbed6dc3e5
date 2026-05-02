@@ -43,7 +43,7 @@ final List<Doctor> mockDoctors = [
     specialty: 'Pediatrician',
     imageUrl: 'https://images.unsplash.com/photo-1594824416182-35e691238691?auto=format&fit=crop&q=80&w=200',
     rating: 4.7,
-    description: 'Dedicated to children\\'s health and wellness from infancy to adolescence.',
+    description: "Dedicated to children's health and wellness from infancy to adolescence.",
     services: ['Vaccination', 'General Checkup', 'Fever Treatment'],
   ),
 ];
